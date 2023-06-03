@@ -1,4 +1,5 @@
-# Blanchard https://vendr1k.github.io/Blanchard/
+# Blanchard 
+### https://vendr1k.github.io/Blanchard/
 
 ## Для запуска проекта локально:
  Откройте проект в редкатре кода(VS, WS) и запустите лайв сервер, точка входа index.html
